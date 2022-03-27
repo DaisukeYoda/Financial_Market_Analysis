@@ -5,7 +5,9 @@ Yoda's financial market analysis (public = not profitable)
 
 # Requirement
  
-* python >= 3.6
+* bond analysis: python >= 3.6
+* system_trade: python2 is required.
+
 * pandas 3.5.2
 * numpy >= 1.9
 
